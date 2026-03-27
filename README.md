@@ -16,6 +16,13 @@ I used Gemini to build tools.
 - **Laptop**: Ryzen5 5625U 16GB Windows
 - **Smartphone**: Google Pixel 10 (Obsidian)
 
+### 🛠 MY Project on Scratch
+- **[scAI](https://scratch.mit.edu/projects/1242506903/)**:A search-based chat AI that runs entirely on Scratch
+- **[scGPT-Lucy](https://scratch.mit.edu/projects/1253350367/)**(beta):An AI that generates cat-like text using a simplified Markov chain
+- **[scGPT-Randy](https://scratch.mit.edu/projects/1254429271/)**(beta):An AI project that calculates pixels using a simplified Markov chain to generate images at a resolution of 480×360
+- **[MNrealty Engine](https://scratch.mit.edu/projects/1265454164/)**:An attempt to build a gravity engine that runs entirely on a scratch platform
+- **[lux](https://scratch.mit.edu/projects/1264464689/)**(beta):This is an attempt to recognize handwritten characters
+
 ### 📬 Connect
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) Check out my repositories for practical tools
 - ![Scratch](https://img.shields.io/badge/Scratch-F9A83A?style=flat-square&logo=scratch&logoColor=white) [My Scratch Profile](https://scratch.mit.edu/users/MIRUNNYK/)
